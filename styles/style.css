@@ -100,13 +100,13 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__nav:hover {
     background-color: var(--cor-apresentacao-link);
     transition: 0.5s;
 }
 
 .apresentacao__imagem {
-    width: 70%;
+    width: 65%;
 }
 
 .rodape {
